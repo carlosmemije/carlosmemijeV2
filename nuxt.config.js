@@ -1,4 +1,8 @@
+import AppLink from '@/layouts/AppLink.vue'
+
+
 export default {
+
   // Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
   ssr: false,
 
@@ -29,6 +33,7 @@ export default {
 
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: true,
+
 
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
