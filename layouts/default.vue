@@ -19,15 +19,20 @@
         </li>
         <li>
           <NuxtLink
-            to="/https://docs.google.com/document/d/1qa5sSCLFI9rBf0U4WFXGrKYoDHtH4PgSjqYjBBLevKM/edit?usp=sharing"
+            href="/https://docs.google.com/document/d/1qa5sSCLFI9rBf0U4WFXGrKYoDHtH4PgSjqYjBBLevKM/edit?usp=sharing"
+            target="_blank"
             >Resume</NuxtLink
           >
         </li>
         <li>
-          <NuxtLink to="/https://github.com/carlosmemije">Github</NuxtLink>
+          <NuxtLink href="/https://github.com/carlosmemije" target="_blank"
+            >Github</NuxtLink
+          >
         </li>
         <li>
-          <NuxtLink to="/https://www.linkedin.com/in/carlosmemije/"
+          <NuxtLink
+            href="/https://www.linkedin.com/in/carlosmemije/"
+            target="_blank"
             >LinkedIn</NuxtLink
           >
         </li>
@@ -55,7 +60,7 @@ body {
     Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji,
     Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
   margin: 0;
-  background-color: beige;
+  background-color: #e3e0cf;
 }
 
 main {
@@ -67,8 +72,8 @@ main {
 }
 img {
   margin-bottom: 1rem;
-  height: 100px;
-  width: 150px;
+  height: 250px;
+  width: 300px;
 }
 
 ul {
