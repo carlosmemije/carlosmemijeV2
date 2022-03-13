@@ -19,16 +19,16 @@
         </li>
         <li>
           <a
-            href="/https://docs.google.com/document/d/1qa5sSCLFI9rBf0U4WFXGrKYoDHtH4PgSjqYjBBLevKM/edit?usp=sharing"
+            href="https://docs.google.com/document/d/1qa5sSCLFI9rBf0U4WFXGrKYoDHtH4PgSjqYjBBLevKM/edit?usp=sharing"
             target="_blank"
             >Resume</a
           >
         </li>
         <li>
-          <a href="/https://github.com/carlosmemije" target="_blank">Github</a>
+          <a href="https://github.com/carlosmemije" target="_blank">Github</a>
         </li>
         <li>
-          <a href="/https://www.linkedin.com/in/carlosmemije/" target="_blank"
+          <a href="https://www.linkedin.com/in/carlosmemije/" target="_blank"
             >LinkedIn</a
           >
         </li>
