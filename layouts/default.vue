@@ -55,6 +55,7 @@ body {
     Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji,
     Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
   margin: 0;
+  background-color: beige;
 }
 
 main {
@@ -66,6 +67,8 @@ main {
 }
 img {
   margin-bottom: 1rem;
+  height: 100px;
+  width: 150px;
 }
 
 ul {
