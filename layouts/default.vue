@@ -18,19 +18,18 @@
           <NuxtLink to="/education">Education</NuxtLink>
         </li>
         <li>
-          <router-link
-            to="/https://docs.google.com/document/d/1qa5sSCLFI9rBf0U4WFXGrKYoDHtH4PgSjqYjBBLevKM/edit?usp=sharing"
-            >Resume</router-link
+          <a
+            href="/https://docs.google.com/document/d/1qa5sSCLFI9rBf0U4WFXGrKYoDHtH4PgSjqYjBBLevKM/edit?usp=sharing"
+            target="_blank"
+            >Resume</a
           >
         </li>
         <li>
-          <router-link to="/https://github.com/carlosmemije"
-            >Github</router-link
-          >
+          <a href="/https://github.com/carlosmemije" target="_blank">Github</a>
         </li>
         <li>
-          <router-link to="/https://www.linkedin.com/in/carlosmemije/"
-            >LinkedIn</router-link
+          <a href="/https://www.linkedin.com/in/carlosmemije/" target="_blank"
+            >LinkedIn</a
           >
         </li>
       </ul>
@@ -70,7 +69,7 @@ main {
 img {
   margin-bottom: 1rem;
   height: 250px;
-  width: 300px;
+  width: 250px;
 }
 
 ul {
