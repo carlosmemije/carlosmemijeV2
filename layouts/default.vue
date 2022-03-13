@@ -18,17 +18,19 @@
           <NuxtLink to="/education">Education</NuxtLink>
         </li>
         <li>
-          <AppLink
+          <router-link
             to="/https://docs.google.com/document/d/1qa5sSCLFI9rBf0U4WFXGrKYoDHtH4PgSjqYjBBLevKM/edit?usp=sharing"
-            >Resume</AppLink
+            >Resume</router-link
           >
         </li>
         <li>
-          <AppLink to="/https://github.com/carlosmemije">Github</AppLink>
+          <router-link to="/https://github.com/carlosmemije"
+            >Github</router-link
+          >
         </li>
         <li>
-          <AppLink to="/https://www.linkedin.com/in/carlosmemije/"
-            >LinkedIn</AppLink
+          <router-link to="/https://www.linkedin.com/in/carlosmemije/"
+            >LinkedIn</router-link
           >
         </li>
       </ul>
