@@ -3,30 +3,35 @@
     "name": "about",
     "path": "/about",
     "component": "/Users/carlosmemije/Desktop/carlosmemijeV2/pages/about.vue",
-    "chunkName": "pages/about"
+    "chunkName": "pages/about",
+    "_name": "_61cea72e"
   },
   {
     "name": "education",
     "path": "/education",
     "component": "/Users/carlosmemije/Desktop/carlosmemijeV2/pages/education.vue",
-    "chunkName": "pages/education"
+    "chunkName": "pages/education",
+    "_name": "_711d2df8"
   },
   {
     "name": "experience",
     "path": "/experience",
     "component": "/Users/carlosmemije/Desktop/carlosmemijeV2/pages/experience.vue",
-    "chunkName": "pages/experience"
+    "chunkName": "pages/experience",
+    "_name": "_7c218684"
   },
   {
     "name": "projects",
     "path": "/projects",
     "component": "/Users/carlosmemije/Desktop/carlosmemijeV2/pages/projects.vue",
-    "chunkName": "pages/projects"
+    "chunkName": "pages/projects",
+    "_name": "_44e632ce"
   },
   {
     "name": "index",
     "path": "/",
     "component": "/Users/carlosmemije/Desktop/carlosmemijeV2/pages/index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_225ef1a4"
   }
 ]

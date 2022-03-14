@@ -70,7 +70,7 @@ a.nuxt-link-exact-active {
 
 body {
   background-image: url("~/assets/background.jpeg");
-  background-size: 100%;
+  background-size: auto;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
     Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji,
     Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
