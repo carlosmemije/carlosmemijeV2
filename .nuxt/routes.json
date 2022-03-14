@@ -1,0 +1,32 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/Users/carlosmemije/Desktop/carlosmemijeV2/pages/about.vue",
+    "chunkName": "pages/about"
+  },
+  {
+    "name": "education",
+    "path": "/education",
+    "component": "/Users/carlosmemije/Desktop/carlosmemijeV2/pages/education.vue",
+    "chunkName": "pages/education"
+  },
+  {
+    "name": "experience",
+    "path": "/experience",
+    "component": "/Users/carlosmemije/Desktop/carlosmemijeV2/pages/experience.vue",
+    "chunkName": "pages/experience"
+  },
+  {
+    "name": "projects",
+    "path": "/projects",
+    "component": "/Users/carlosmemije/Desktop/carlosmemijeV2/pages/projects.vue",
+    "chunkName": "pages/projects"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/carlosmemije/Desktop/carlosmemijeV2/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]

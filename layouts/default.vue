@@ -34,8 +34,25 @@
         </li>
       </ul>
     </nav>
+
     <main>
-      <img src="~/assets/yogi.JPG" />
+      <p1 id="footer">Built using</p1>
+      <a
+        id="footer"
+        href="https://nuxtjs.org/"
+        target="_blank"
+        rel="noopener noreferrer"
+        >Nuxt.js :
+      </a>
+      <a
+        id="footer"
+        href="https://github.com/carlosmemije/carlosmemijeV2"
+        target="_blank"
+        rel="noopener noreferrer"
+        >View Source.</a
+      >
+      <p1 id="footer">*Still under construction*</p1>
+
       <Nuxt />
     </main>
   </div>
@@ -52,11 +69,13 @@ a.nuxt-link-exact-active {
 }
 
 body {
+  background-image: url("~/assets/background.jpeg");
+  background-size: 100%;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
     Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji,
     Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
   margin: 0;
-  background-color: #c5d5cb;
+  background-color: rgb(184, 170, 147);
 }
 
 main {
@@ -68,8 +87,24 @@ main {
 }
 img {
   margin-bottom: 1rem;
-  height: 250px;
-  width: 250px;
+  height: 380px;
+  width: 500px;
+}
+h1 {
+  background-color: rgba(255, 255, 255, 0.25);
+}
+
+h3 {
+  text-align: left;
+  margin-left: 25px;
+  background-color: rgba(255, 255, 255, 0.25);
+}
+
+p {
+  margin: 130px;
+  font-size: 20px;
+  text-align: left;
+  background-color: rgba(255, 255, 255, 0.25);
 }
 
 ul {
@@ -79,10 +114,21 @@ ul {
   justify-content: center;
   flex-wrap: wrap;
 }
-li {
+ul li {
   margin: 0 0.5rem;
   padding: 0.25rem;
   font-size: 1.2rem;
+}
+
+body .footer {
+  position: fixed;
+  bottom: 0;
+}
+
+.bullets {
+  text-align: left;
+  margin-left: 25px;
+  background-color: rgba(255, 255, 255, 0.25);
 }
 
 nav {
@@ -96,7 +142,7 @@ a:visited {
 }
 
 a:hover {
-  color: #2198ec;
+  color: #d8d5be;
 }
 
 .page-enter-active,
