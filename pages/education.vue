@@ -7,6 +7,8 @@
       California, Merced | 2020-2024
     </p>
 
+    <br />
+
     <p>
       Associate of Arts in Communications, Media and Languages from Moreno
       Valley College | 2018-2020

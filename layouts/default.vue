@@ -75,11 +75,11 @@ body {
     Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji,
     Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
   margin: 0;
-  background-color: rgb(184, 170, 147);
+  background-color: rgb(16, 137, 236);
 }
 
 main {
-  margin: 0 auto;
+  margin: auto;
   padding: 0 1rem;
   margin-top: 100px;
   max-width: 1280px;
@@ -101,7 +101,7 @@ h3 {
 }
 
 p {
-  margin: 130px;
+  margin: auto;
   font-size: 20px;
   text-align: left;
   background-color: rgba(255, 255, 255, 0.25);
